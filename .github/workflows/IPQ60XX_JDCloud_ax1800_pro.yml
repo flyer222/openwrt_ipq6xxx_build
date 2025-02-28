@@ -1,4 +1,4 @@
-name: IPQ60XX-6.6-WIFI(EMMC)
+name: IPQ69XX_JDCloud_ax1800_pro
 
 on:
   workflow_dispatch:
